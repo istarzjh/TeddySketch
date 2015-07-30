@@ -1,2 +1,3 @@
 # TeddySketch
-a simple implementation of Teddy. Inarash 
+a simple implementation of Teddy. Igarash
+using GLUT & CGAL
